@@ -4,7 +4,7 @@ envolver a pro atividade na busca de soluções que mitiguem ou cessem os impact
 submetida à análise e aprovação do coordenador auxiliar.
 
 HORAS MÍNIMAS EXIGIDAS PARA APROVAÇÃO 
-•	60 horas
+60 horas
 CRITÉRIOS PARA PONTUAÇÃO
 Reunião com grupo	2 h
 Orientações	1 h
@@ -43,4 +43,3 @@ Projeto (estrutura) do site
 Relatório com as linhas de código das páginas do site
 Bibliografia
 Ficha de Atividades Práticas Supervisionadas
-
