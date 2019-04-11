@@ -26,5 +26,17 @@ border-bottom:3px solid rgb(39, 234, 0);
 
 #paragrafo {
     font-size: 20px;
-    color: red;
+    text-align: justify;
+}
+
+div{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 5%;
+    padding-right: 5%;  
+    background-color: white;
+}
+
+body{
+    background-color: aquamarine;
 }
